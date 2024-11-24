@@ -1,7 +1,7 @@
 // Higher order function (A function which takes another function as an argument / returns a function)
 
 radius = [2, 3, 4, 5, 6];
-
+// 
 const area = (radius) => {
   return Math.PI * Math.pow(radius, 2);
 };
